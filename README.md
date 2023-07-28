@@ -1,4 +1,4 @@
-# BoardGame-
+# BoardGame
 Welcome to my "Introduction to Object-Oriented Programming (OOP) in Java" repository, where I present a captivating board game project! 🎮 During my academic course, I delved into the exciting world of OOP principles while creating this engaging game.
 
 🧩 The Game Concept
